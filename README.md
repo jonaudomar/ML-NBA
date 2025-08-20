@@ -9,7 +9,7 @@ The dataset contains statistics of 4000 NBA players, including:
 - `mp` : Minutes played
 - `do_ratio` : A player’s ratio of time spent in defense vs. offense; negative values mean more defense positioning
 - `pacing` : Player impact on team possessions per 48 minutes
-- `win_rating' : Wins Above Replacement rating, how many additional wins a player is worth over a same-level replacement
+- `win_rating` : Wins Above Replacement rating, how many additional wins a player is worth over a same-level replacement
 
 ## About the project
 
