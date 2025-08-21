@@ -25,7 +25,7 @@ Along the way, we are going to :
 - Visualize the trained model
 - Use the model to predict new data
 
-### [Part 2 : Working on the Learning curves](https://github.com/jonaudomar/ML-NBA/blob/main/Learning_Curves-Copy1.ipynb)
+### [Part 2 : Working on the Learning curves](https://github.com/jonaudomar/ML-NBA/blob/main/PART_2_Learning_Curves.ipynb)
 
 The goal of this part in to interpret the learning curves and understanding how model complexity affects the results and how we can prevent underfitting and overfitting.
 
