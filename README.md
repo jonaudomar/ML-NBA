@@ -13,7 +13,7 @@ The dataset contains statistics of 4000 NBA players, including:
 
 ## About the project
 
-### [Part 1 : Working on the linear model](https://github.com/jonaudomar/ML-NBA/blob/main/Linear_Regression-Copy1.ipynb)
+### [Part 1 : Working on the linear model](https://github.com/jonaudomar/ML-NBA/blob/main/PART_1_Linear_Regression.ipynb)
 
 The goal of the project is to model the relationship between the players’ win rating and the amount of minutes they played.
 
